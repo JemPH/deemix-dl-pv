@@ -1,0 +1,6 @@
+click
+pycryptodomex
+mutagen
+requests
+spotipy>=2.11.0
+deezer-py>=1.1.2

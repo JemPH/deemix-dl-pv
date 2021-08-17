@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: deemix
+Version: 3.4.3
+Summary: A barebone deezer downloader library
+Home-page: UNKNOWN
+Author: RemixDev
+Author-email: RemixDev64@gmail.com
+License: GPL3
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
 # ![](./icon.svg) deemix
 ## What is deemix?
 deemix is a deezer downloader built from the ashes of Deezloader Remix. The base library (or core) can be used as a stand alone CLI app or implemented in an UI using the API.
@@ -31,3 +48,5 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
