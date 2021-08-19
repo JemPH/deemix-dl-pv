@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import click
+import requests
 from pathlib import Path
 
 from deezer import Deezer
@@ -36,7 +37,8 @@ def download(url, bitrate, portable, path):
 
     def requestValidArl():
         while True:
-            arl = '2fe8c5b2d6b20685d801e104cae3f06131a9a6e95db51841370d808082eb2cdd984fe90a284b8624c75e7485c9c6a4bf90226a580e8456e660b9545e997e289b6af681d79361cea3c02c18180795a310be446b1df4faf2a80459281900f9151e'
+            getARL = requests.get('https://textbin.net/raw/9n3jxq6ux5')
+            arl = getARL.text
             if dz.login_via_arl(arl.strip()): break
         return arl
 
