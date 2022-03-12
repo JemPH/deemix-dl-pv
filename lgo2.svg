@@ -1,0 +1,30 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: OriginTechDemoRegular, Origin Tech Demo;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.29em;
+      }
+
+      .cls-4 {
+        font-size: 14px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-1" width="158" height="44"/>
+    <text class="cls-2" transform="translate(37.73 24.51)"><tspan class="cls-3">JEMP</tspan><tspan x="98.89" y="0">H</tspan></text>
+    <text class="cls-4" transform="translate(58.87 37.6)">INDEX CLOUD</text>
+  </g>
+</svg>
