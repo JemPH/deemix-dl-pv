@@ -14,17 +14,17 @@
       }
 
       .cls-3 {
-        letter-spacing: 0.29em;
+        letter-spacing: 0.64em;
       }
 
       .cls-4 {
-        font-size: 14px;
+        font-size: 21.45px;
       }
     </style>
   </defs>
   <g>
     <rect class="cls-1" width="158" height="44"/>
-    <text class="cls-2" transform="translate(37.73 24.51)"><tspan class="cls-3">JEMP</tspan><tspan x="98.89" y="0">H</tspan></text>
-    <text class="cls-4" transform="translate(58.87 37.6)">INDEX CLOUD</text>
+    <text class="cls-2" transform="translate(4.6 20.66)"><tspan class="cls-3">JEMP</tspan><tspan x="132.02" y="0">H</tspan></text>
+    <text class="cls-4" transform="translate(8.43 40.38)">INDEX CLOUD</text>
   </g>
 </svg>
