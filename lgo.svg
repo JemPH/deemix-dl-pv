@@ -1,0 +1,27 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 158 51.64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: OriginTechDemoRegular, Origin Tech Demo;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-1" width="158" height="44"/>
+    <text class="cls-2" transform="translate(65.94 24.51)">JEMPH</text>
+    <image width="1600" height="1600" transform="translate(4.38 1) scale(0.03)" xlink:href="cloud-icon-png.png"/>
+    <text class="cls-3" transform="translate(59.75 37.47)">INDEX CLOUD</text>
+  </g>
+</svg>
